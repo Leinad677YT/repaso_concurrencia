@@ -15,3 +15,6 @@ Yo recomendaría poner un `print + flush` al "liberar" el puente como en los que
     - `<!>` -> el grupo _empieza a comprobar si tiene hueco_ para entrar
     - `-E-` -> el grupo _empieza a entrar_ por tener hueco (NO ES CUANDO EMPIEZAN LA VISITA)
     - `[L]` -> el grupo abandonó por completo el museo
+
+### Para el ej 3:
+- Simplemente ejecuta el código e intenta que no de assertion error, le lleva un rato en ejecutar por forzar tiempos de espera para asegurar que una los threads
