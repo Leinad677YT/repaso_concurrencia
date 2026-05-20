@@ -18,3 +18,7 @@ Yo recomendaría poner un `print + flush` al "liberar" el puente como en los que
 
 ### Para el ej 3:
 - Simplemente ejecuta el código e intenta que no de assertion error, le lleva un rato en ejecutar por forzar tiempos de espera para asegurar que una los threads
+
+### Para el ej Erlang1:
+- El fichero debe nombrarse `notifier.erl` a causa del nombre del módulo.
+- Para comprobar si funciona correctamente, hay comentado código a ejecutar en la linea de comandos de erlang.
