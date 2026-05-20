@@ -22,3 +22,7 @@ Yo recomendaría poner un `print + flush` al "liberar" el puente como en los que
 ### Para el ej Erlang1:
 - El fichero debe nombrarse `notifier.erl` a causa del nombre del módulo.
 - Para comprobar si funciona correctamente, hay comentado código a ejecutar en la linea de comandos de erlang.
+
+### Para el ej Erlang2:
+- El fichero debe nombrarse `store.erl` a causa del nombre del módulo.
+- Para comprobar si funciona correctamente, hay comentado código a ejecutar en la linea de comandos de erlang.
